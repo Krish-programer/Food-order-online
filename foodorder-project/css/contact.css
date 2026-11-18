@@ -1,0 +1,17 @@
+
+
+.contact-box {
+  padding: 30px;
+}
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+}
+
+.contact-box {
+  padding: 38px;
+}
+.contact-box h2 {
+  font-size: 1.6rem;
+}
